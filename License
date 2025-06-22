@@ -1,0 +1,16 @@
+
+---
+
+## 📌 How to Add It
+
+1. Create a new file in your project root:  
+   `task_managment_app/README.md`
+
+2. Paste the content above.
+
+3. Save and commit it:
+
+```bash
+git add README.md
+git commit -m "Add README"
+git push
